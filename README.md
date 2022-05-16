@@ -14,6 +14,7 @@ Solution:
 
 Results:
 The original image was the following:
+
 ![image](https://user-images.githubusercontent.com/54996440/168550869-aa62decd-0f22-408d-a200-7bc98dd8c206.png)
 
 The compressed images, their respective number of clusters (k) and the number of iterations are shown in the table on the next page.
